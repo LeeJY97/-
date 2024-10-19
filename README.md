@@ -6,7 +6,7 @@
 
 ## 프로그래머스
 
-[프로그래머스 Lv.0](./programmers-lv.0/)  
+[프로그래머스 Lv.0](./programmers-Lv.0/)  
 [프로그래머스 Lv.1](./programmers-Lv.1/)  
 [프로그래머스 Lv.2](./programmers-Lv.2/)
 
